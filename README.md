@@ -1,7 +1,7 @@
 # Tantangan Kode Mobile Developer
 Untuk bisa bergabung di posisi Mobile Engineer, Anda harus menyelesaikan tantangan berikut ini.
 
-/Catatan: Tantangan ini seharusnya tidak memerlukan waktu pengerjaan lebih dari 8 jam./
+*Catatan: Tantangan ini seharusnya tidak memerlukan waktu pengerjaan lebih dari 8 jam.*
 
 ### Prasyarat
 
@@ -29,7 +29,7 @@ Terdapat empat jenis pesan yang dipertukarkan, yaitu teks, gambar, dokumen, dan 
 2. Pesan Gambar
 	* Pesan gambar merupakan pesan yang berisi lampiran berupa gambar.
 	* Pesan gambar berisi tautan yang merujuk pada berkas gambar.
-	* Judul pada pesan gambar disertakan pada atribut /body/ pada pesan utama.
+	* Judul pada pesan gambar disertakan pada atribut *body* pada pesan utama.
 	* Pesan gambar dikelompokkan berdasarkan kriteria.
 3. Pesan Dokumen
 	* Pesan dokumen merupakan pesan teks yang berisi lampiran berupa dokumen.
@@ -54,11 +54,11 @@ Daftar pesan dapat dikelompokkan berdasarkan kriteria sebagai berikut:
 	* Berulang minimal 2 kali
 
 ## Tugas
-1. /Fork/ repositori ini (jika Anda tidak tahu bagaimana caranya, Google adalah teman Anda)
-2. Buatlah sebuah /source folder/ untuk kemudian diisi dengan kode Anda.
-3. Di dalam /source directory/ Anda, buat sebuah aplikasi Android atau iOS yang dapat melakukan hal berikut:
-	* Tampilkan semua pesan yang ada dalam data set berdasarkan tanggal//timestamp/ /ascending/.
-	* Kelompokkan data yang tersedia pada file `message_dataset.json` sesuai dengan kriteria. Data yang dapat dikelompokkan disajikan dalam bentuk /group///collection/ (misalkan tampilan yg berbeda atau informasi /collection/ seperti /collage/ pada aplikasi pesan instan).
+1. *Fork* repositori ini (jika Anda tidak tahu bagaimana caranya, Google adalah teman Anda)
+2. Buatlah sebuah *source folder* untuk kemudian diisi dengan kode Anda.
+3. Di dalam *source directory* Anda, buat sebuah aplikasi Android atau iOS yang dapat melakukan hal berikut:
+	* Tampilkan semua pesan yang ada dalam data set berdasarkan tanggal/*timestamp ascending*.
+	* Kelompokkan data yang tersedia pada file `message_dataset.json` sesuai dengan kriteria. Data yang dapat dikelompokkan disajikan dalam bentuk *group*/*collection* (misalkan tampilan yg berbeda atau informasi *collection* seperti *collage* pada aplikasi pesan instan).
 Contohnya:
 		* pesan teks
 		* pesan kontak
@@ -70,8 +70,8 @@ Contohnya:
 		* pesan teks
 		* dst..
 	* Penyajian data dalam bentuk list.
-4. /Commit/ dan /Push/ kode Anda ke repositori baru Anda.
-5. Kirimkan /pull request/ kepada kami.
-6. Kami akan melakukan peninjauan terhadap kode Anda dan Anda akan kami hubungi kembali.
+1. *Commit* dan *Push* kode Anda ke repositori baru Anda.
+2. Kirimkan *pull request* kepada kami.
+3. Kami akan melakukan peninjauan terhadap kode Anda dan Anda akan kami hubungi kembali.
 
-/Tantangan ini dibuat oleh [Donn Felker](https://github.com/donnfelker/) di repositori [Example Android Challenge](https://github.com/donnfelker/example-android-challenge) miliknya dan telah diubah sesuai kebutuhan/
+*Tantangan ini dibuat oleh [Donn Felker](https://github.com/donnfelker/) di repositori [Example Android Challenge](https://github.com/donnfelker/example-android-challenge) miliknya dan telah diubah sesuai kebutuhan*
